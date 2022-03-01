@@ -1,0 +1,20 @@
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+table{
+  padding: 1%;
+  margin-top: 1%;
+
+}
+
+table, th, td{
+  border-style: solid;
+  border-width: thin;
+}
+
+th, td{
+  width: 10%;
+  padding: 5px;
+}
